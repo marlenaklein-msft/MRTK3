@@ -3,7 +3,7 @@
   "version": "3.0.0-development",
   "description": "This package has been deprecated",
   "displayName": "MRTK Tools (deprecated)",
-  "msftFeatureCategory": "MRTK3",
+  "msftFeatureCategory": "MRTK3 (deprecated)",
   "author": "Microsoft",
   "license": "BSD 3-Clause",
   "repository": {

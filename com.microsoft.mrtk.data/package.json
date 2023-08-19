@@ -3,7 +3,7 @@
   "version": "1.0.0-development",
   "description": "This package has been deprecated",
   "displayName": "MRTK3 Data Binding and Theming (Experimental) (deprecated)",
-  "msftFeatureCategory": "Experimental",
+  "msftFeatureCategory": "MRTK3 (deprecated)",
   "author": "Microsoft",
   "license": "BSD 3-Clause",
   "repository": {
