@@ -141,13 +141,11 @@ namespace MixedReality.Toolkit.SpatialManipulation
                     colliders[0].enabled = !IsOccluded;
                 }
 
-                transform.localScale = Vector3.one;
                 // Maintain the aspect ratio/proportion of the handles, globally.
+                transform.localScale = Vector3.one;
                 transform.localScale = new Vector3(1.0f / transform.lossyScale.x,
                                                    1.0f / transform.lossyScale.y,
                                                    1.0f / transform.lossyScale.z);
-
-
 
                 // If we don't want to maintain the overall *size*, we scale
                 // by the maximum component of the box so that the handles grow/shrink
